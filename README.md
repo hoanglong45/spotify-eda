@@ -1,1 +1,4 @@
-"# Spotify EDA" 
+# Requirements
+- Spotipy
+- Matplotlib
+- Pandas
